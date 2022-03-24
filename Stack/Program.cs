@@ -1,7 +1,9 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+//Console.WriteLine("Hello, World!");
 
 using System;
+using System.Collections.Generic
+
 
 namespace MyApp // Note: actual namespace depends on the project name.
 {
@@ -9,7 +11,10 @@ namespace MyApp // Note: actual namespace depends on the project name.
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
+            Stack new stack = new Stack();
+
+            Stack.
         }
     }
 }
